@@ -1,27 +1,26 @@
- Heading
- =======
+Heading
+=======
 
- Sub-heading
- -----------
+Sub-heading
+-----------
  
- Paragraphs are separated
- by a blank line.
+Paragraphs are separated
+by a blank line.
  
- Text attributes *italic*,
- **bold**, `monospace`.
+Text attributes *italic*,**bold**, `monospace`.
  
- A [link](http://example.com).
+A [link](http://example.com).
  
- Shopping list:
+Shopping list:
  
-   * apples
-   * oranges
-   * pears
+  * apples
+  * oranges
+  * pears
  
- Numbered list:
+Numbered list:
  
-   1. apples
-   2. oranges
-   3. pears
+  1. apples
+  2. oranges
+  3. pears
  
-The rain---not the reign---in Spain.
+The rain --- not the reign---in Spain.
